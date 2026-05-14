@@ -1,10 +1,9 @@
 # NBA Winner Predictor — Implementation Checklist
 
-## MVP Objective
+## Objective
 Build an end-to-end ML system that predicts the home-team win probability for upcoming NBA games and displays predictions in a React dashboard.
 
 ## Phase 0 — Setup
-- [ ] Create GitHub repo: `nba-winner-predictor`
 - [ ] Add `.env.example` for API keys, database URL, S3 bucket, model path
 - [ ] Create Python environment with `nba_api`, `pandas`, `scikit-learn`, `sqlalchemy`, `fastapi` or `flask`, `mlflow`
 - [ ] Create React frontend folder
