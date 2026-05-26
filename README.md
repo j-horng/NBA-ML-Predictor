@@ -2,7 +2,7 @@
 
 An end-to-end machine learning project that predicts the winner of upcoming NBA games and displays each game's win probability in a web dashboard.
 
-The MVP focuses on predicting the **home team's win probability** before tip-off. The system is designed to start simple with historical team-level data and baseline models, then improve over time with lineup, injury, player-availability, and model-calibration features.
+Project focuses on predicting the **home team's win probability** before tip-off. The system is designed to start simple with historical team-level data and baseline models, then improve over time with lineup, injury, player-availability, and model-calibration features.
 
 > This project is for machine learning and forecasting practice. It is not betting advice.
 
